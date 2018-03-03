@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Demo_011</string>
+
+    <!-- <table>
+        <rows num="1">
+            <column name = "id">1</column>
+            <column name = "name">张三</column>
+        </rows>
+        <rows num="2">
+            <column name = "id">2</column>
+            <column name = "name">李四</column>
+        </rows>
+    </table>-->
+</resources>
